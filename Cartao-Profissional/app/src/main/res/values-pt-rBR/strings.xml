@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cartão de visitas</string>
+    <string name="add_new_business_card">Adicionar novo cartão de visitas</string>
+    <string name="close_button">Botão fechar</string>
+    <string name="new_card">Novo Cartão</string>
+    <string name="name">Nome</string>
+    <string name="phone">Telefone</string>
+    <string name="e_mail">E-mail</string>
+    <string name="company_name">Nome da empresa</string>
+    <string name="color">Cor</string>
+    <string name="confirm">Confirmar</string>
+    <string name="label_show_success">Cartão de visita adicionado</string>
+    <string name="captured_image">Imagem capturada com sucesso</string>
+    <string name="label_share_to">Compartilhar</string>
+</resources>

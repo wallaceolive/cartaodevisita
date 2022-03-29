@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Business card</string>
+    <string name="add_new_business_card">Add new business card</string>
+    <string name="close_button">Close button</string>
+    <string name="new_card">New Card</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="e_mail">E-mail</string>
+    <string name="company_name">Company Name</string>
+    <string name="color">Color</string>
+    <string name="confirm">Confirm</string>
+    <string name="label_show_success">Business card added</string>
+    <string name="captured_image">Image captured successfully</string>
+    <string name="label_share_to">Share</string>
+</resources>
